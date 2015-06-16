@@ -1,4 +1,4 @@
-# generator-nrs-plugin
+# Yeoman generator: nrs-plugin
 
 ## Introduction ##
 This project provide a yeoman generator that assists in creating the boring part of a nrs plugin for the NXT network.
@@ -11,6 +11,9 @@ In short you will:
 - Call the generator
 - Answer a bunch of easy questions
 - And BAM, here you go, you have made a nrs plugin package!
+
+Look at it in action:
+[![asciicast](https://asciinema.org/a/21511.png)](https://asciinema.org/a/21511)
 
 ## Getting Started
 
