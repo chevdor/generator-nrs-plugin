@@ -15,6 +15,9 @@ In short you will:
 Look at it in action:
 [![asciicast](https://asciinema.org/a/21511.png)](https://asciinema.org/a/21511)
 
+And here is the result:
+![Result](/img/screenshot.png)
+
 ## Getting Started
 
 ### What is Yeoman?
