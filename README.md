@@ -3,7 +3,9 @@
 ## Introduction ##
 This project provide a yeoman generator that assists in creating the boring part of a nrs plugin for the NXT network.
 
-You can find the package using npm: https://www.npmjs.org/package/generator-nrs-plugin
+You can find the package in those locations:
+ - GitHub: https://github.com/chevdor/generator-nrs-plugin
+ - NPM: https://www.npmjs.org/package/generator-nrs-plugin
 
 In short you will:
 
