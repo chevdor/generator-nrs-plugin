@@ -1,0 +1,6 @@
+/* This is the place to provide sytling for your plugin if required.
+*/
+
+.<%= pluginName %>{
+	margin: 12px;
+}

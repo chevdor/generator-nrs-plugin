@@ -1,0 +1,28 @@
+= NXT/NRS Plugin: <%= pluginName %>
+<%= pluginAuthors %>
+
+This is a plugin for the NXT Network client: NRS.
+<%= pluginDescription %>
+
+image:img/screenshot.jpg[]
+
+== Install
+You can get the latest release from <%= githubUrl %>/<%= pluginName %>/releases
+
+Unzip the file, rename the folder to +dividends_scanner+ and copy it to the appropriate location for your OS.
+
+=== MacOS
+
+   /Applications/Nxt Wallet.app/Contents/Resources/nxt/html/ui/plugins
+
+=== Linux
+
+   /<InstallFolder>/nxt/html/ui/plugins
+
+=== Windows
+
+   C:\Users\your.name\AppData\Local\Nxt Wallet\nxt\html\ui\plugins
+
+
+Then start your client and ensure to enable plugins in the settings for the account you are using.
+

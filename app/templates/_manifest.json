@@ -1,0 +1,10 @@
+{
+    "pluginVersion": 1,
+    "name": "<%= pluginName %>",
+    "myVersion": "<%= pluginVersion %>",
+    "shortDescription": "<%= pluginDescription %>",
+    "infoUrl": "<%= pluginProjectURL %>",
+    "startPage": "p_<%= pluginName %>",
+    "nrsVersion": "1.5.0",
+    "deactivated": false
+}
