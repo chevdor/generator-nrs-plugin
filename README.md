@@ -18,7 +18,7 @@ Look at it in action:
 [![asciicast](https://asciinema.org/a/21511.png)](https://asciinema.org/a/21511)
 
 And here is the result:
-![Result](/img/screenshot.png)
+![Result](https://github.com/chevdor/generator-nrs-plugin/img/screenshot.png)
 
 ## Getting Started
 
